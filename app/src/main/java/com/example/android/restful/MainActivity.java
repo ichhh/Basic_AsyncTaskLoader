@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
 
     //test
     TextView output;
+    TextView output2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
