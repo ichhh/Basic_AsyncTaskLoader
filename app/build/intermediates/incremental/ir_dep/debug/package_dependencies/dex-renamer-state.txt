@@ -1,0 +1,4 @@
+#Tue Apr 17 15:43:21 MSK 2018
+base.0=C\:\\Users\\Ivan\\Dropbox\\Android & Java\\Lynda\\Android App Development RESTful Web Services\\Exercise Files\\Ch02\\02_02\\AsyncTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
